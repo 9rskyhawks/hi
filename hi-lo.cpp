@@ -1,9 +1,3 @@
-/* You've got 7 tries to guess a number between 1 and 100.
- * hi-lo.cpp
- *
- *  Created on: May 21, 2017
- *      Author: Abhiek187
- */
 
 #include <iostream>
 #include <cstdlib> // for rand() and srand()
